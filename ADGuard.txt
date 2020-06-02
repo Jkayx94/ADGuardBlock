@@ -5,4 +5,4 @@
 127.0.0.1  *.casumo.com
 127.0.0.1  *.grandivy.com
 https://*.grandivy.*
-https://www.grandivy.com/en-gb/
+|https://www.grandivy.com/*|
