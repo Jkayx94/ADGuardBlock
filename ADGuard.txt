@@ -2,3 +2,5 @@
 ::1  localhost
 127.0.0.1  grandivy.com
 127.0.0.1  casumo.com
+127.0.0.1  *.casumo.com
+127.0.0.1  *.grandivy.com
