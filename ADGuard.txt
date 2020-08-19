@@ -1,0 +1,9 @@
+127.0.0.1  localhost
+::1  localhost
+127.0.0.1  grandivy.com
+127.0.0.1  casumo.com
+127.0.0.1  *.casumo.com
+127.0.0.1  *.grandivy.com
+https://*.grandivy.*
+|https://www.grandivy.com/*|
+||grandivy.zendesk.com
